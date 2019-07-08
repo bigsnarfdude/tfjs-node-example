@@ -5,7 +5,7 @@
 
 ## Step 2: git clone this repo with
 
-`git clone git@github.com:bigsnarfdude/tfjs-node-example.git`
+`git clone https://github.com/bigsnarfdude/tfjs-node-example.git `
 
 ## Step 3: install dependancies
 
