@@ -4,7 +4,7 @@
 #Step 1: Install node and npm
 
 #Step 2: git clone this repo with
-`git clone `
+`git clone git@github.com:bigsnarfdude/tfjs-node-example.git`
 
 #Step 3: install dependancies
 `npm install`
