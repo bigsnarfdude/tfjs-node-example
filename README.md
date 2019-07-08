@@ -1,5 +1,6 @@
 # tfjs-node-example
 
+Using TensorFlow.js with MobileNet models for image classification on Node.js
 
 ## Step 1: Install node and npm
 
