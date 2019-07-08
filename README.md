@@ -2,7 +2,7 @@
 
 Using TensorFlow.js with MobileNet models for image classification on Node.js
 
-** http://jamesthom.as/blog/2018/08/07/machine-learning-in-node-dot-js-with-tensorflow-dot-js/
+* http://jamesthom.as/blog/2018/08/07/machine-learning-in-node-dot-js-with-tensorflow-dot-js/
 
 ## Step 1: Install node and npm
 
