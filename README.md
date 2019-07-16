@@ -9,6 +9,9 @@ Tested:
 2. Ubuntu 18.04 Jetson TX2
 3. Ubuntu 18.04 Jetson Nano
 
+Notes:
+https://gist.github.com/bigsnarfdude/b9926795b039f89af10ae482db7ac083
+
 ## Step 1: Install node and npm
 
 ## Step 2: git clone this repo with
