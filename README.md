@@ -26,3 +26,15 @@ https://gist.github.com/bigsnarfdude/b9926795b039f89af10ae482db7ac083
 ## Step 4: run prediction on panda.jpg against pre-trained model
 
 `node script.js mobilenet/model.json panda.jpg`
+
+
+## Expected output
+
+`classification results: [ { className:
+     'giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca',
+    probability: 0.9993536472320557 },
+  { className:
+     'American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier',
+    probability: 0.00012968324881512672 },
+  { className: 'Arctic fox, white fox, Alopex lagopus',
+    probability: 0.00008463481208309531 } ]`
